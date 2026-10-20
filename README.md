@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Eleilson, tenho 21 anos e sou natural de São Luis MA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e posto algumas coisas no meu instagram "[eleilson.mp3](https://www.instagram.com/eleilson.mp3/)"
+Me chamo Eleilson, tenho 21 anos e sou natural de São Luis MA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e posto algumas coisas no meu instagram "[@eleilson.mp3](https://www.instagram.com/eleilson.mp3/)" e pretendo postar no Youtube "[EleilsonDuarteSousa](https://www.youtube.com/@EleilsonDuarteSousa))"
+
 
 
 ---
